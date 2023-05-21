@@ -5,4 +5,7 @@
 - Minha area favorita na programação é I.A's e Machine learning/Deep learning
 - Contate-me pelo email: josearthurribeiro.dev@gmail.com
 
-[![JThurr GitHub stats](https://github-readme-stats.vercel.app/api?username=JThurr)](https://github.com/JThurr/github-readme-stats)
+<div>
+  <a href="https://github.com/JThurr">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JThurr&show_icons=true"/>
+</div>
