@@ -1,5 +1,5 @@
 ## Opa, prazer!! Me chamo José Arthur
-#### E atualmente estou iniciando na area de front-end
+#### Atualmente estou iniciando na area de front-end
 - A procura de uma oportunidade para adquirir experiencia na area de front-end e Ux/Ui design
 - Estudando JavaScrip e aprendendo sobre telas responsivas
 - Minha area favorita na programação é I.A's e Machine learning/Deep learning
