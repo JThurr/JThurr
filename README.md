@@ -7,5 +7,6 @@
 
 <div>
   <a href="https://github.com/JThurr">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JThurr&show_icons=true"/>
+  <img width="42%" src="https://github-readme-stats.vercel.app/api?username=JThurr&show_icons=true&theme=radical"/>
+  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JThurr&theme=radical"/>
 </div>
